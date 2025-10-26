@@ -55,7 +55,7 @@ Mate isn't just another expense tracker; it's a statement. It's the interface fo
 
 | Dashboard | Add Transaction | Insights |
 | :---: | :---: | :---: |
-| *(Dashboard Screenshot)* | *(Add Transaction Screenshot)* | *(Insights Screenshot)* |
+| ./assets/11.png | ./assets/12.png | ./assets/13.png |
 
 ---
 
