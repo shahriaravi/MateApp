@@ -32,6 +32,10 @@ In a world of cluttered and complicated finance apps, Mate offers a refreshing e
 Mate isn't just another expense tracker; it's a statement. It's the interface for your financial life, distilled to its essential form.
 
 ---
+## ⚠️ Alpha build Issues
+- The export/import/backup options doesn't work properly
+- The app size is bigger than usual
+ *(In Alpha V2, these issues will be fixed hopefully)*
 
 ## ✨ Key Features
 
