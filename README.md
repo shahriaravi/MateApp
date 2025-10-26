@@ -10,7 +10,7 @@ Meet Mate, the minimalist finance tracker designed for clarity and focus. Inspir
     A minimalist, Nothing-style money management app built with React Native.
   </p>
   <p align="center">
-    <a href="soon"><strong>Download the App (APK)</strong></a>
+    <a href="https://github.com/shahriaravi/MateApp/releases/download/v1/Mate.Alpha.v1.0.0.apk"><strong>Download the App (APK)</strong></a>
     ·
     <a href="#-key-features">Key Features</a>
     ·
