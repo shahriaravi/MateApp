@@ -15,6 +15,8 @@ Meet Mate, the minimalist finance tracker designed for clarity and focus. Inspir
     <a href="#-key-features">Key Features</a>
     ·
     <a href="#-screenshots">Screenshots</a>
+    .
+    <a href="https://discord.gg/Tadda5xDXG"><strong>Discord</strong></a>
   </p>
 </div>
 
