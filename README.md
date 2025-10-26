@@ -51,9 +51,7 @@ Mate isn't just another expense tracker; it's a statement. It's the interface fo
 
 ## 📸 Screenshots
 
-| Dashboard | Add Transaction | Insights |
-| ![11](https://github.com/shahriaravi/MateApp/blob/main/assets/11.png) | :---: | :---: |
-| ./assets/11.png | ./assets/12.png | ./assets/13.png |
+<img src="[https://github.com/shahriaravi/MateApp/blob/main/assets/11.png" alt="Mobile view" width="250"/>
 
 ---
 
