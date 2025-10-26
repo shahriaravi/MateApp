@@ -1,8 +1,5 @@
-# MateApp
-Meet Mate, the minimalist finance tracker designed for clarity and focus. Inspired by the Nothing aesthetic, Mate deconstructs your financial life into a clean, intuitive interface. Track expenses, manage wallets, set budgets, and gain insights without the noise. Your data is yours always offline, always private
-
 <div align="center">
-  <img src="./assets/icon.png" alt="Mate App Logo" width="150" />
+  <img src="https://raw.githubusercontent.com/shahriaravi/MateApp/main/assets/icon.png" alt="Mate App Logo" width="150" />
   <h1 align="center">Mate</h1>
   <p align="center">
     <strong>Finance, deconstructed.</strong>
@@ -44,17 +41,29 @@ Mate isn't just another expense tracker; it's a statement. It's the interface fo
 -   **Loan Management:** Keep track of money you've borrowed or lent, and record repayments.
 -   **Smart Budgeting:** Set monthly budgets for different categories and visually track your progress.
 -   **Insightful Reports:** Understand your spending habits with simple, clear charts and a monthly breakdown.
--   **Data Control:** Export your data to CSV for spreadsheets or create a full JSON backup. Your data is yours.
+-   **Data Control:** Export your data to CSV or create a full JSON backup. Your data is yours.
 -   **Secure & Private:** Your financial data is stored locally on your device and is never uploaded to any server.
 
 ---
 
 ## 📸 Screenshots
 
-<img src="[https://github.com/shahriaravi/MateApp/blob/main/assets/11.png" alt="Mobile view" width="250"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shahriaravi/MateApp/main/assets/11.png" width="200" alt="Screenshot 1"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/shahriaravi/MateApp/main/assets/12.png" width="200" alt="Screenshot 2"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/shahriaravi/MateApp/main/assets/13.png" width="200" alt="Screenshot 3"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/shahriaravi/MateApp/main/assets/14.png" width="200" alt="Screenshot 4"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/shahriaravi/MateApp/main/assets/15.png" width="200" alt="Screenshot 5"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/shahriaravi/MateApp/main/assets/16.png" width="200" alt="Screenshot 6"/>
+  &nbsp;&nbsp;&nbsp;
+</p>
 
 ---
-
 
 ## 📜 Legal
 
