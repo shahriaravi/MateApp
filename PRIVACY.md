@@ -1,47 +1,47 @@
-# Privacy Policy for Mate
+# Mate - Privacy Policy
 
-**Last Updated: 26/10/2025**
+**Effective Date:** 28/10/2025
 
-Thank you for choosing Mate. Your privacy and the security of your financial data are our highest priorities. This policy explains what information we handle and, more importantly, what we **do not**.
+Your privacy is the foundation of Mate. Our philosophy is simple: **what's yours is yours.** Your financial data is sensitive, and we believe it should never leave your device unless you explicitly choose to move it.
 
-Our core principle is simple: **Your data is yours. It stays on your device.**
+### 1. Data We Do NOT Collect
 
----
+Mate is an offline-first application. We do **not** have user accounts. We do **not** have our own servers. Therefore, we do not collect, store, view, or have any access to:
 
-### 1. Data We Do Not Collect
+- Your name, email address, or any other personal identifier.
+- Your transaction details, amounts, or notes.
+- Your wallet names or balances.
+- Your budget information.
+- Your loan or subscription details.
+- Your device contacts, photos, or other personal files.
 
-Mate is designed to be a private, offline-first application. We do **not** collect, store, view, or have access to any of your personal financial information. This includes, but is not limited to:
+All of the above data is stored exclusively in a secure, encrypted database file on your personal device.
 
--   Your transaction amounts, notes, or categories.
--   Your wallet names or balances.
--   Your budgets, loans, or subscriptions.
--   Any data related to your financial reports or insights.
+### 2. Data We Collect (Optional & Anonymous)
 
-All of the financial data you enter into Mate is stored exclusively in a secure, local SQLite database on your own device. It never leaves your phone unless you manually export it.
+During the initial onboarding process, we ask for your feedback. This is the **only** time we transmit any data, and it is sent anonymously to a private Discord channel for our development team to improve the app. This data includes:
 
-### 2. Data We Do Collect (Anonymous Survey)
+- The sources you selected for how you heard about Mate.
+- Your device's general model name (e.g., "iPhone 15 Pro," "Pixel 8"), with no unique identifiers.
 
-To help us understand our users and improve our app, we ask one optional question during the onboarding process: **"How did you hear about Mate?"**
-
--   **What We Collect:** We collect only your selected answer(s) from the survey (e.g., "Discord," "YouTube"), your device model name (e.g., "Pixel 7").
--   **How It's Used:** This information is sent anonymously to a private Google Sheet. It helps us understand which communities our users come from so we can focus our efforts.
--   **It Is Not Linked to You:** This survey data is completely separate from your financial data and is not used to identify you personally.
+This data is used solely to understand our user base and prioritize features.
 
 ### 3. Permissions We Request
 
-Mate requests a minimal set of permissions to function correctly:
+Mate may request the following permissions, but only when you use a feature that requires it:
 
--   **Storage / Media Access (`WRITE_EXTERNAL_STORAGE` / `READ_EXTERNAL_STORAGE`):** This permission is required only when you choose to use the "Backup" or "Export to CSV" features to save a file to your device, or when you attach a receipt image to a transaction. The app does not automatically access any other files.
--   **Biometrics / Face ID (`USE_BIOMETRIC`):** This permission is used for the App Lock feature. The authentication is handled entirely by your phone's secure operating system. We never receive or store your biometric data.
+- **Notifications:** To send you scheduled reminders for upcoming subscriptions and loan payments. This feature is off by default and can be toggled in settings. We do not use notifications for marketing.
+- **Biometric Authentication (Face ID / Fingerprint):** To secure the app with an App Lock. This feature is optional and your biometric data is never transmitted; it is handled securely by your device's operating system.
 
-### 4. Data Security
+### 4. Your Data, Your Control
 
-Because your data is stored locally, you have full control over it. We recommend using the app's backup feature regularly to prevent data loss if your device is lost, damaged, or reset. We are not responsible for the loss of locally stored data.
+- **Export:** You can export your entire database to a human-readable JSON file at any time.
+- **Delete:** You can permanently delete all of your data from the app at any time via the settings menu. This action is irreversible and completely wipes the app's database from your device.
 
-### 5. Changes to This Privacy Policy
+### 5. Changes to This Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+If we ever change this policy in a way that affects your data, we will notify you within the app before the changes take effect. Our core promise of being an offline-first, private application will not change.
 
-### 6. Contact Us
+### Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please reach out to us on our official Discord server.
+If you have any questions about this Privacy Policy, please join our Discord server.
