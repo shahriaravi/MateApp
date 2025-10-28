@@ -1,33 +1,34 @@
-# Terms and Conditions for Mate
+# Mate - Terms and Conditions
 
-**Last Updated: 26/10/2025**
+**Effective Date:** 28/10/2025
 
-Please read these terms and conditions carefully before using the Mate application (the "Service") operated by Byontriq ("us", "we", or "our").
+Welcome to Mate! By downloading, installing, or using this application ("App"), you agree to be bound by these Terms and Conditions ("Terms"). Please read them carefully.
 
-Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all users who access or use the Service.
+### 1. The App is Provided "As Is"
 
-By accessing or using the Service, you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access the Service.
+Mate is currently in a **beta phase**. This means the App is provided "as is," without any warranties of any kind, express or implied. We are working hard to make it a reliable financial companion, but we cannot guarantee that it will always be free of bugs, errors, inaccuracies, or interruptions. You agree that you use the App at your own sole risk.
 
-### 1. Use of the Application
+### 2. No Financial Advice
 
--   The Mate application is provided for your personal, non-commercial use to manage and track your personal finances.
--   You are solely responsible for the accuracy and management of the data you enter into the application.
+Mate is a financial tracking and awareness tool. It does **not** provide financial, investment, legal, or tax advice. The calculations, budget tracking, and "What If?" scenarios are for informational purposes only and should not be considered a substitute for professional financial advice. You are solely responsible for your own financial decisions and research.
 
-### 2. Data and Privacy
+### 3. Data Responsibility & Security
 
--   **Local Storage:** Your financial data is stored locally on your device only. We have no access to this data. For more information, please review our **Privacy Policy**.
--   **Data Responsibility:** You are solely responsible for your data. This includes creating regular backups using the app's export functionality. We cannot recover your data if you lose your device or uninstall the application, as we do not store it.
+Mate is an offline-first application. All of your financial data is stored exclusively on your device.
 
-### 3. Limitation of Liability
+- **You are responsible for your data.** This includes regularly backing up your data using the "Export Data" feature.
+- **We are not responsible for data loss.** If your device is lost, stolen, damaged, or if you delete the app, your data will be permanently lost unless you have a backup. We have no access to your data and no way to recover it for you.
+- The App Lock feature relies on your device's native security (Passcode, Face ID, Fingerprint). You are responsible for securing your device. We are not liable for any unauthorized access that results from a compromised device.
 
-The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+### 4. Limitation of Liability
 
-In no event shall Byontriq, nor its directors, employees, partners or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any errors or inaccuracies in the content calculated or displayed by the Service; (iii) any loss or corruption of your locally stored data.
+To the fullest extent permitted by applicable law, the developer of Mate (Byontrid) shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
+(a) your access to, use of, or inability to access or use the App;
+(b) any bugs, viruses, or errors in the software;
+(c) the permanent deletion or loss of your data.
 
-### 4. Changes to Terms
+### 5. Changes to Terms
 
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time. We will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+We may modify these Terms from time to time. We will provide notice of any major changes within the App. By continuing to use the App after those changes become effective, you agree to be bound by the revised Terms.
 
-### 5. Contact Us
-
-If you have any questions about these Terms, please contact us via our official Discord server.
+**By using Mate, you acknowledge that you have read, understood, and agree to be bound by these Terms.**
