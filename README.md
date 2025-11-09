@@ -7,7 +7,7 @@
     A minimalist, private, Nothing-style financial companion built with React Native.
   </p>
   <p align="center">
-    <a href="https://github.com/shahriaravi/MateApp/releases/latest"><strong>Download Latest Release (APK)</strong></a>
+    <a href="https://getmate.vercel.app"><strong>Download APK</strong></a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
     <a href="https://discord.gg/Tadda5xDXG"><strong>Join our Discord</strong></a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -21,11 +21,11 @@
 
 ## Why Mate?
 
-In a world of bloated finance apps that harvest your data, Mate offers a refreshing alternative. It's built on three core principles: clarity, privacy, and control. We believe managing your money should be an insightful, streamlined, and personal process.
+In a world of bloated finance apps that harvest your data, Mate offers a refreshing alternative. It's built on three core principles: **clarity, privacy, and control.** We believe managing your money should be an insightful, streamlined, and personal process.
 
 **Mate is for you if you:**
 - Appreciate **minimalist, functional design** inspired by the Nothing™ aesthetic.
-- Value **true privacy**. Your data is offline-first and stays on your device. No accounts, no servers, no clouds.
+- Value **true privacy**. Your data is offline-first and stays on your device. No accounts, no servers.
 - Need powerful tools like **multi-wallet tracking, budgeting, and loan management** presented in the simplest way possible.
 
 Mate is more than an expense tracker; it's a statement. It's your financial awareness tool, deconstructed to its essential form.
@@ -34,15 +34,22 @@ Mate is more than an expense tracker; it's a statement. It's your financial awar
 
 ## ✨ Key Features
 
--   **Nothing-Style UI:** A clean, monochromatic interface with a Dot Matrix font and a bold red accent.
--   **Dashboard:** A minimalist overview of your total balance, today's financial snapshot, and upcoming bills.
--   **Comprehensive Tracking:** Log expenses and income with a fast, intuitive interface.
--   **Multi-Wallet System:** Organize your finances by creating separate wallets for cash, cards, and bank accounts.
--   **Smart Budgeting:** Set monthly budgets and visually track your progress with a unique Glyph Ring.
--   **Subscriptions & Loans:** Track recurring payments and manage money you've borrowed or lent.
--   **"What If?" Planner:** A simple calculator to plan for your financial goals.
--   **Full Data Control:** Export your data to a JSON file and import from a backup at any time. Your data is yours.
--   **Secure & Private:** Offline-first by design. Your financial data never leaves your device unless you choose to export it.
+### Core Experience
+-   **Nothing-Style UI:** A clean, monochromatic interface with the NDot57 dot-matrix font and a bold red accent, built for speed and focus.
+-   **Dynamic Dashboard:** A minimalist overview of your total balance, today's financial snapshot, and an event stack for upcoming bills.
+-   **Multi-Wallet System:** Organize your finances by creating separate wallets for cash, cards, and bank accounts, each with a unique icon.
+
+### Powerful Tools
+-   **Subscriptions Management:** Track recurring payments with flexible frequencies (weekly, monthly, yearly).
+-   **Loan & Debt Tracking:** Manage money you've borrowed or lent with detailed amortization schedules and payment history.
+-   **Due Date Reminders:** Get timely push notifications for upcoming subscription renewals and loan payments.
+-   **Simple, Effective Budgeting:** Set monthly or custom-period budgets for categories and visually track your spending.
+-   **"What If?" Planner:** A simple calculator to quickly plan for your financial goals.
+
+### Privacy & Security
+-   **Biometric App Lock:** Secure your app with Face ID or Fingerprint authentication.
+-   **Offline-First by Design:** Your financial data never leaves your device unless you choose to export it.
+-   **Full Data Control:** Export your entire dataset to a JSON file and import from a backup at any time. Your data is yours.
 
 ---
 
@@ -64,27 +71,8 @@ Mate is more than an expense tracker; it's a statement. It's your financial awar
 
 ---
 
-## 🛠️ Known Issues & Future Roadmap
+## 🚀 Get Involved
 
-This is a **Beta v1.0** release. While stable for daily use, we are actively working on improvements.
-
--   **App Lock:** The App Lock feature is currently disabled to ensure maximum stability. We are re-engineering a 100% reliable solution for a future update.
--   **Advanced Analytics:** The next major feature will be a dedicated "Reports" screen with advanced charts and insights into your spending habits.
--   **UI & Sound Polish:** We will continue to refine animations, add custom sound effects, and polish every corner of the user experience.
-
-Your feedback is crucial to this process. Please join our Discord to report bugs and share your ideas.
-
----
-
-## 📜 Legal
-
-By downloading and using Mate, you agree to our terms and policies.
-
--   [**Terms & Conditions**](./TERMS.md)
--   [**Privacy Policy**](./PRIVACY.md)
-
-<div align="center">
-  <br />
-  <p><strong>Mate</strong> not by Nothing</p>
-  <p style="font-size: 12px; color: #8A8A8E;">Mate © Byontriq 2025</p>
-</div>
+-   **Download the App:** Grab the latest `.apk` from our [website](https://getmate.vercel.app).
+-   **Join the Community:** Your feedback is crucial. Report bugs, suggest features, and discuss the roadmap on our [Discord server](https://discord.gg/Tadda5xDXG).
+-   **Contribute:** Found a bug or want to add a feature? Feel free to open an issue or submit a pull request.
