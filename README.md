@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shahriaravi/MateApp/main/assets/micon.png" alt="Mate App Logo" width="150" />
+  <img src="https://raw.githubusercontent.com/shahriaravi/MateApp/main/assets/icon.png" alt="Mate App Logo" width="150" />
   <h1 align="center">Mate</h1>
   <p align="center">
     <strong>Finance, deconstructed.</strong>
