@@ -77,7 +77,7 @@ Built by [Byontriq](https://byontriq.dev).
 
 ## Get Involved
 
-* Download. Grab the latest APK from [mate.byontriq.xyz](https://mate.byontriq.dev).
+* Download. Grab the latest APK from [here](https://mate.byontriq.dev).
 * Feedback. Report bugs and suggest features on [Discord](https://discord.gg/Tadda5xDXG).
 * Export your data anytime. You always own your information.
 
